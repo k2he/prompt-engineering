@@ -21,6 +21,7 @@
   Try different phrasings. Small changes in wording can lead to significantly better results.
 
 ## 2. Best Practice
+How to use it Effectively
 
 - **Break Complex Tasks into Steps**  
   Use multi-turn prompts to build complex solutions incrementally.
