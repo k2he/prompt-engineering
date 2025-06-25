@@ -1,6 +1,6 @@
 # Prompt Engineering Guide
 
-## 1. Useful Tips
+## 1. Useful Tips and Strategies
 
 - **Be Clear and Specific**  
   Vague prompts lead to vague answers. Always state exactly what you want.
