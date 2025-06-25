@@ -21,7 +21,6 @@
   Try different phrasings. Small changes in wording can lead to significantly better results.
 
 ## 2. Best Practice
-How to use it Effectively
 
 - **Break Complex Tasks into Steps**  
   Use multi-turn prompts to build complex solutions incrementally.
@@ -35,4 +34,31 @@ How to use it Effectively
 - **Zero-shot, One-shot, and Few-shot Prompting**  
   Tailor the number of examples to the complexity of your request.
 
-- **Test with Divers**
+- **Test with Diverse Inputs**  
+  Use a variety of inputs to ensure prompts are robust and adaptable.
+
+- **Document and Version Your Prompts**  
+  Track prompt changes like code — versioning helps maintain and improve consistency.
+
+## 3. Markdowns (Enhance Prompt Clarity)
+
+- **Use Headings (`#`, `##`, `###`)**  
+  Break prompts into sections to help the model understand structure.
+
+- **Bold Important Instructions (`**bold**`)**  
+  Emphasize constraints, roles, or actions clearly.
+
+- **Lists and Bullet Points (`-`, `*`)**  
+  Organize details or requirements cleanly and visibly.
+
+- **Code Blocks (```, `inline`)**  
+  Wrap examples or expected outputs in code formatting for precision.
+
+- **Tables**  
+  Use tables for comparisons, feature specs, or structured data formats.
+
+```markdown
+| Field    | Description     |
+|----------|-----------------|
+| Name     | John Doe        |
+| Email    | john@example.com|
